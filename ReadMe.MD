@@ -6,13 +6,11 @@
 
 
 
-*Calliope Chai Xin Yi | P2504874 | Calsacc | calliopechai@gmail.com*
+*Calliope Chai Xin Yu | P2504874 | Calsacc | calliopechai@gmail.com*
 
 
 
 
 
 *Tan Jun Xiong |P2500573 | JxTan-Jun |  Jxtansp@gmail.com*
-
-
 
