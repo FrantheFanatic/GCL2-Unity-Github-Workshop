@@ -2,18 +2,19 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - BackGround
+  - enemy
   - 
   - 
   - 
@@ -41,3 +42,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: backGround
+    uniqueID: 204209465
+    locked: 0
+  - name: MidGround
+    uniqueID: 1442962505
+    locked: 0
+  - name: player
+    uniqueID: 1837109937
+    locked: 0
+  - name: Enemy
+    uniqueID: 4239141761
+    locked: 0
+  - name: ground
+    uniqueID: 2602874125
+    locked: 0
+  m_RenderingLayers:
+  - Default
